@@ -54,14 +54,22 @@ You can either add the button on native side or on flutter side.
 
 ### Top Region
 
-![](top_region.mov)
+<video width="320" height="240" controls>
+ <source src="./top_region.MOV" type="video/mp4">
+</video>
 
 ### Dismiss button
 
-![](dismiss_button.mov)
+
+<video width="320" height="240" controls>
+ <source src="./dismiss_button.MOV" type="video/mp4">
+</video>
 
 ### Top Region + Dismiss Button
 
-![](both.mov)
+<video width="320" height="240" controls>
+ <source src="./both.MOV" type="video/mp4">
+</video>
+
 
 
